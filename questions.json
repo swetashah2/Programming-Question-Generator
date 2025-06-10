@@ -1,0 +1,67 @@
+[
+  {
+    "No": 1,
+    "question": "Write a Program to check if the number is even or odd.",
+    "hint": "A number is even if you divide the number by 2 and the remainder is 0. If there is a remainder of 1, the number is odd."
+  },
+  {
+    "No": 2,
+    "question": "Find the largest among three numbers.",
+    "hint": "Start by comparing the first two numbers. Identify the larger of the two. Next, compare the larger number from step 1 with the third number. The result from step 2 will be the largest of the three numbers."
+  },
+  {
+    "No": 3,
+    "question": "Write a program to check if a number is prime or not.",
+    "hint": "Try dividing the number by all integers from 2 to square root of the number."
+  },
+  {
+    "No": 4,
+    "question": "Write a program to reverse a string",
+    "hint": "Think about slicing or using a loop to reverse the string."
+  },
+  {
+    "No": 5,
+    "question": "Find the factorial of a number using recursion.",
+    "hint": "Base case is when the number is 0 or 1. Recursive case calls the function with n-1."
+  },
+  {
+    "No": 6,
+    "question": "Find the factorial of a number.",
+    "hint": "Start with 1 and multiply it by each number up to the given number (n). You can use a loop or recursion. Remember, factorial of 0 is 1."
+  },
+  {
+    "No": 7,
+    "question": "Check if a string is a palindrome.",
+    "hint": "Compare the original string with its reversed version"
+  },
+  {
+    "No": 8,
+    "question": "Print the Fibonacci series up to n terms.",
+    "hint": "Start with 0 and 1, then keep adding the previous two numbers."
+  },
+  {
+    "No": 9,
+    "question": "Write a program to check whether a number is Armstrong or not.",
+    "hint": "Break the number into digits, cube them, and check if their sum equals the original number."
+  },
+  {
+    "No": 10,
+    "question": "Find the largest element in a list.",
+    "hint": "Loop through the list and compare each element with a max variable."
+  },
+  {
+    "No": 11,
+    "question": "Write a program to swap two numbers without using a third variable.",
+    "hint": "Use arithmetic operations like addition and subtraction or XOR."
+  },
+  {
+    "No": 12,
+    "question": "Count the number of vowels in a string.",
+    "hint": "Loop through the string and check each character against a set of vowels."
+  },
+  {
+    "No": 13,
+    "question": "Count the number of vowels in a string.",
+    "hint": "Loop through the string and check each character against a set of vowels."
+  }
+]
